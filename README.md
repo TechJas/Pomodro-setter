@@ -102,4 +102,12 @@ Please credit if you fork 🙏
 - Upload a preview screenshot or GIF of the timer in action.
 - Add project tags like `#productivity`, `#pomodoro`, `#javascript`, `#focus`.
 
--
+
+---
+
+## 💡 Motivation
+This project was built as a productivity tool and a hands-on practice for implementing timing logic and dynamic UI updates in vanilla JavaScript.
+
+---
+
+
